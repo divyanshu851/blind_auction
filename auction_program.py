@@ -1,4 +1,3 @@
-from pickle import HIGHEST_PROTOCOL
 from logo import logo
 import os
 print(logo)
